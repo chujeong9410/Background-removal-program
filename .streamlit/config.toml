@@ -1,0 +1,16 @@
+[theme]
+base = "light"
+primaryColor = "#2563A8"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F6FA"
+textColor = "#1F2937"
+borderColor = "#DCE3EC"
+showWidgetBorder = true
+baseRadius = "0.6rem"
+font = "'Pretendard', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif"
+
+[server]
+maxUploadSize = 200
+
+[client]
+toolbarMode = "minimal"
