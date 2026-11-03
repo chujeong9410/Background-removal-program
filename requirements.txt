@@ -1,0 +1,7 @@
+streamlit>=1.40
+openai>=1.50
+python-dotenv>=1.0
+opencv-python-headless>=4.10
+numpy
+pillow
+pytest
